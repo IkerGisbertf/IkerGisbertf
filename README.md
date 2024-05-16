@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @IkerGisbertf
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Daw
+- 🌱 I’m currently learning data engineering
 - 📫 igisbertfbla@gmail
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 IkerGisbertf/IkerGisbertf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
